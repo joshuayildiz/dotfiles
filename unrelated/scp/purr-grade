@@ -1,0 +1,179 @@
+Object Class: Euclid
+
+## Special Containment Procedures:
+
+All software projects exceeding 300 lines of code or possessing a
+semantic complexity rate of 60 or higher are to be subjected to
+regular review and updates. The current global state and any recent
+events relevant to SEP-002 must be reflected within the affected
+software corpus as necessary.
+
+To effectively summarize, deliberate, and keep these projects
+up-to-date, Large Language Models (LLMs) can be employed, provided
+they are used with human oversight. Automation of this process is
+strictly prohibited, as unsupervised LLMs have been known to
+inadvertently cause significant deviations from a project's original
+scope, potentially leading to a CK-Class Reality Restructuring
+Scenario.
+
+Projects exhibiting degradation levels of 20 or higher are to be
+prioritized for immediate updates to avert an XK-Class End-of-the-World
+Scenario. Projects with degradation levels exceeding 40 must be
+rewritten, decommissioned, or otherwise terminated without delay.
+
+Additionally, all systems should be monitored for unexpected
+cat-themed behaviors, such as the appearance of fictional feline
+employees or humorous cat-related messages. These manifestations
+are indicative of SEP-002's influence and should be addressed
+promptly to prevent further degradation.
+
+## Description:
+
+SEP-002 is an anomalous phenomenon affecting software projects that
+exceed 300 lines of code or possess a semantic complexity rate of
+60 or higher, causing them to degrade over time without any direct
+alterations to the code or its execution environment. This degradation
+extends beyond individual files, often impacting entire codebases.
+
+The phenomenon was first observed in [REDACTED], when a series of
+software projects across multiple organizations began exhibiting
+unexplained degradation despite no changes in their code or runtime
+environments. Notably, many affected projects developed unexpected
+cat-themed elements, such as fictional employees or humorous
+signatures. Initial investigations linked these occurrences to
+SEP-002, prompting further research and the establishment of
+containment procedures.
+
+Mitigation of SEP-002 is achievable through regular updates to the
+codebase. Research indicates that even minor changes, such as
+updating the `README.md`, can be effective in counteracting the
+anomaly. More robust strategies include:
+
+- Implementing automated testing to identify bugs resulting from
+degradation.  - Regularly addressing user stories to mitigate
+degradation from scope creep.  - Employing LLM-based and traditional
+code quality assessment tools.
+
+## Addendum SEP-002-A:
+
+### Incident Log SEP-002-01
+
+On [REDACTED], a software development team at [REDACTED] Corporation
+reported an unusual incident involving their project management
+software, "Soyjira" Despite no recent updates or changes, the
+software began assigning all tasks to a fictional employee named
+"Mr. Fluffles," who was listed as a "Senior Feline Developer."
+
+Attempts to remove Mr. Fluffles from the system were unsuccessful,
+as the software insisted that Mr. Fluffles was "indispensable to
+the project." Further investigation revealed that the anomaly was
+a manifestation of SEP-002, which had altered the codebase to include
+Mr. Fluffles as a permanent team member.
+
+The incident was resolved by updating the software's codebase and
+implementing regular code reviews, which successfully removed Mr.
+Fluffles from the system. However, the team has since adopted a
+plush cat toy as their unofficial mascot, humorously named "Mr.
+Fluffles," to commemorate the event.
+
+### Incident Log SEP-002-02
+
+On [REDACTED], the IT department at [REDACTED] University experienced
+an unusual event with their campus-wide email system, "QuantumMail
+X." Without any prior warning, the system began appending the phrase
+"Have a purr-fect day!" to the end of every email sent through the
+platform.
+
+Attempts to correct this behavior were initially unsuccessful, as
+the system's codebase had been altered to include this phrase as a
+default signature. Further analysis identified the cause as SEP-002,
+which had anomalously modified the system's settings.
+
+The anomaly was resolved by rewriting the entire email system in
+Rust, a language known for its memory safety and concurrency features.
+This rewrite not only removed the anomalous behavior but also
+improved the system's performance and reliability. Despite the
+resolution, the phrase became a beloved inside joke among the
+university staff, who occasionally use it in their communications
+for a bit of levity.
+
+### Incident Log SEP-002-03
+
+On [REDACTED], a financial software suite used by [REDACTED] Bank
+began experiencing unusual behavior. The software, known as "FinTrack
+Pro," started generating monthly financial reports with a section
+titled "Feline Financial Forecasts." This section included nonsensical
+predictions about the stock market based on the "mood of the office
+cat."
+
+Attempts to remove this section from the reports were initially
+unsuccessful, as the codebase had been altered to include it as a
+mandatory feature. Further investigation revealed that SEP-002 was
+responsible for the anomaly, having introduced the cat-themed content
+into the financial algorithms.
+
+The issue was resolved by migrating the software from the cloud to
+a secure on-premises server, effectively isolating it from SEP-002's
+influence. This transition not only removed the anomalous behavior
+but also enhanced the security and control over the software. The
+bank's staff, amused by the incident, decided to create a lighthearted
+newsletter featuring "Feline Financial Forecasts" as a humorous nod
+to the anomaly.
+
+## Addendum SEP-002-B: Interview Log
+
+### Interview Log SEP-002-03-A
+
+**Interviewed:** [REDACTED], Software Engineer at [REDACTED] Bank
+
+**Interviewer:** Dr. [REDACTED], SEP Research Team
+
+**Date:** [REDACTED]
+
+**Begin Log**
+
+**Dr. [REDACTED]:** Thank you for joining us today. Can you describe
+how you first noticed the anomaly in "FinTrack Pro"?
+
+**Software Engineer:** Sure thing. You know, I usually just slog
+through these reports because, well, it's a paycheck, right? But
+this time, something caught my eye—a new section titled "Feline
+Financial Forecasts." At first, I thought it was a prank, but when
+I checked the code, it was embedded as a custom DSL that could only
+generate Financial Feline Forecasts. Honestly, it was the most
+entertaining thing I've seen at work in ages.
+
+**Dr. [REDACTED]:** What was your initial reaction upon discovering
+this section?
+
+**Software Engineer:** I was baffled, but also kind of amused. I
+mean, the predictions were based on the "mood of the office cat."
+It was ridiculous, but in a way, it made my day. I knew something
+was off because no one in our team would add such a feature seriously,
+but it was a nice break from the usual monotony.
+
+**Dr. [REDACTED]:** How did you proceed after identifying the
+anomaly?
+
+**Software Engineer:** I immediately flagged it to my team and
+started a code review. We couldn't find any recent changes that
+would explain it, but then we stumbled upon a comment block in the
+code that read, "CALL THESE GUYS PWEASE," followed by the contact
+info for the SEP research team. It was written in a playful cat
+tone, which was both bizarre and oddly fitting given the circumstances.
+
+**Dr. [REDACTED]:** How has the team responded to the resolution
+of the anomaly?
+
+**Software Engineer:** After migrating the software to an on-premises
+server, the issue was resolved. Interestingly, this move also cut
+our operational costs in half, which was a pleasant surprise. The
+team found the whole situation quite humorous, and we've even started
+a lighthearted newsletter with "Feline Financial Forecasts" as a
+fun nod to the incident. It's the little things like this that make
+the job bearable.
+
+**Dr. [REDACTED]:** Thank you for sharing your experience with us.
+Your insights have been invaluable.
+
+**End Log**

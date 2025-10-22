@@ -1,0 +1,17 @@
+Mobile LLM Prototyper
+
+- Use LLMs as much as you can, manual editing only when needed
+
+- Offer completions when a line is selected (akin to cursor), LSP
+integration (trivial with remote LSP info, have to parse in app
+tho)
+
+- Free until three projects, 5 sec runtime per project in docker
+containers and 128mb memory, no disk space, all private projects
+with invitation
+
+- GitHub export/import, git integration (how???)
+
+- Unlimited everything after 30$ monthly subscription
+
+- Project templates like replit

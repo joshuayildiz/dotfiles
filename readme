@@ -1,0 +1,21 @@
+List of quality tools.
+
+browser   : Chrome
+code      : Vim
+database  : PostgresSQL
+debuggers : Fiddler
+font      : Berkeley Mono Variable
+language  : TypeScript, Go, SQL, C
+os        : MacOS, Homebrew
+terminal  : Terminal.app
+vpn       : Mullvad
+
+I pick one of these when needed.
+
+---
+
+I should try:
+
+antinote : quick notes
+apidog   : documenting apis
+blisk    : developer browser

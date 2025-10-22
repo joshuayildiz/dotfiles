@@ -1,0 +1,12 @@
+Some framework that:
+
+Uses a command palette for primary use
+Has other windows which:
+	Display either text or images
+	Text can be
+		Edited & saved
+		Plumbed
+
+It is basically a command palette with text
+It works like a Unix terminal
+But instead is Plan 9 all along.

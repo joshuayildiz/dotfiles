@@ -1,0 +1,5 @@
+Given the database schema, generates:
+
+- Repo with common methods
+- CRUD handlers
+- Table templates (with filters?)

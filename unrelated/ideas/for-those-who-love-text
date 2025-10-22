@@ -1,0 +1,28 @@
+Name: Flume
+Slogan: For those who love text
+
+Theming
+* Tint/foreground/background colors
+* Typeface/line height
+
+Offline/Online Switch
+* Discover/Micro
+* Notes/Blog
+* Book/Docs
+* Accounts
+    * Profile/cover images
+    * Biography text
+
+Everything is publishable/searchable/reference-able. Self hosting
+option, cant publish to public tho.
+
+- Micro has
+    - Linear comments
+    - Hashtags
+- Blog has
+    - Likes/dislikes
+    - Hierarchical comments
+    - Tags
+- Docs has
+    - Acyclic dependent versioning
+    - Chat

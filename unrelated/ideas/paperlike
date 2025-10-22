@@ -1,0 +1,64 @@
+Paperlike
+Great—your direction is clear and strong. Here’s a first draft of your personal design language called “Paperlike” (name can change if you prefer). It focuses on harmony, clarity, and spatial rhythm.
+
+⸻
+
+Paperlike: A Personal Design Language
+
+1. Core Principles
+	•	Paper-first: Interfaces should feel like reading or writing on fine paper.
+	•	Spatial balance: White space is never wasted—it’s breathing room for thought.
+	•	Unintrusive minimalism: Nothing screams. Everything whispers with intent.
+	•	Typographic honesty: Typefaces are chosen for clarity, not style. No tricks.
+	•	Rare playfulness: Color appears as a treat, not a standard.
+
+⸻
+
+2. Color System
+	•	Background: #FAFAF7 (a soft white, almost warm paper)
+	•	Text (primary): #1A1A1A or #2A2A2A
+	•	Borders / Lines: #E3E3DD for subtle dividers
+	•	Playful color (optional use): soft, dusty tones like:
+	•	Clay red #D36E58
+	•	Mist blue #A0BCC2
+	•	Pale mustard #D3B65A
+	•	Forest green #3E644F
+
+Use colors sparingly—e.g. for highlights, accents, or moments of whimsy.
+
+⸻
+
+3. Typography
+	•	Primary typeface: Iowan Old Style (on Apple devices) or Literata, for a paper-like feel.
+	•	Alternative: SF Serif or Georgia, if you want more system alignment.
+	•	Mono (for code, terminals): SF Mono or Berkeley Mono.
+
+Line height: 1.6x base font size.
+Body size: 16px for digital, 12pt for print-styled outputs.
+Letter spacing: default or slightly increased in all caps.
+
+⸻
+
+4. Spacing
+	•	Vertical rhythm: 8pt baseline grid
+	•	Horizontal padding: 16pt–32pt on all sides
+	•	Paragraph spacing: 1.5× line height
+	•	Margins: generous—space is luxury
+
+⸻
+
+5. UI Elements
+	•	Buttons: Text-only by default. Add soft background on hover/tap (#EFEFEA)
+	•	Inputs: Bordered with #DCDCD6, full-width, ample padding
+	•	Cards: Use only if grouping is essential. Soft drop shadows (rgba(0,0,0,0.04)) or none.
+
+⸻
+
+6. Motion
+	•	Motion is rare and slow. Use only for utility (e.g. transitions, focus shifts).
+	•	Duration: 150–250ms
+	•	Easing: ease-out
+
+⸻
+
+Would you like a sample page layout using this language or visual references to test it on your devices?
