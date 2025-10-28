@@ -1,20 +1,21 @@
-List of quality tools.
+list of quality tools.
 
-browser   : Chrome
-code      : Vim
-database  : PostgresSQL
-debuggers : Fiddler
-font      : Berkeley Mono Variable
-language  : TypeScript, Go, SQL, C
-os        : MacOS, Homebrew
-terminal  : Terminal.app
-vpn       : Mullvad
+browser   : chrome
+code      : lazyvim
+database  : postgres
+debuggers : fiddler
+font      : berkeley mono variable
+language  : python, sql
+os        : macos, homebrew
+shell     : zapzsh
+terminal  : ghostty
+vpn       : mullvad
 
-I pick one of these when needed.
+i pick one of these when needed.
 
 ---
 
-I should try:
+i should try:
 
 antinote : quick notes
 apidog   : documenting apis
