@@ -1,0 +1,44 @@
+[user]
+  name = joshuayildiz
+  email = joshuayildiz@icloud.com
+[push]
+  autoSetupRemote = true
+  followTags = true
+  default = simple
+[core]
+  editor = vi
+  pager = cat
+[advice]
+  detachedHead = false
+[column]
+  ui = auto
+[branch]
+  sort = -committerdate
+[tag]
+  sort = version:refname
+[init]
+  defaultBranch = main
+[diff]
+  algorithm = histogram
+  colorMoved = plain
+  mnemonicPrefix = true
+  renames = true
+[fetch]
+  prune = true
+  pruneTags = true
+  all = true
+[help]
+  autocorrect = prompt
+[commit]
+  verbose = true
+[rerere]
+  enabled = true
+  autoupdate = true
+[rebase]
+  autoSquash = true
+  autoStash = true
+  updateRefs = true
+[merge]
+  conflictstyle = zdiff3
+[pull]
+  rebase = true
