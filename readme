@@ -1,15 +1,18 @@
 list of quality tools.
 
-browser   : chrome
-code      : lazyvim
-database  : postgres
-debuggers : fiddler
-font      : berkeley mono variable
-language  : python, sql
-os        : macos, homebrew
-shell     : zapzsh
-terminal  : ghostty
-vpn       : mullvad
+database         : postgres
+database client  : rainfrog
+debuggers        : fiddler
+font             : berkeley mono variable
+language         : go, rust, python, javascript, sql
+messaging        : signal
+os               : plan9port, macos, homebrew
+password manager : 1password
+shell            : rc
+terminal         : 9term
+text editor      : acme
+vpn              : mullvad
+web browser      : chrome
 
 i pick one of these when needed.
 
