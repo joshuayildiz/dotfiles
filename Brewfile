@@ -1,5 +1,4 @@
 brew "go"
-brew "jj"
 brew "node"
 brew "rainfrog"
 brew "rustup"
