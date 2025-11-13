@@ -1,18 +1,19 @@
 list of quality tools.
 
-database         : postgres
-database client  : rainfrog
-debuggers        : fiddler
-font             : berkeley mono variable
-language         : go, rust, python, javascript, sql
-messaging        : signal
-os               : plan9port, macos, homebrew
-password manager : 1password
-shell            : rc
-terminal         : 9term
-text editor      : acme
-vpn              : mullvad
-web browser      : chrome
+database          : postgres
+database client   : rainfrog
+debuggers         : fiddler
+font              : berkeley mono variable
+language          : go, rust, python, javascript, sql
+messaging         : signal
+os                : plan9port, macos, homebrew
+password manager  : 1password
+shell             : rc
+terminal          : 9term
+text editor       : acme
+vpn               : mullvad
+web browser       : chrome
+
 
 i pick one of these when needed.
 

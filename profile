@@ -1,7 +1,7 @@
 # My scripts & Plan 9 utils first
-PATH=$home/work/dotfiles/bin:$PATH
-PATH=$home/work/dotfiles/scripts:$PATH
 PATH=/usr/local/plan9/bin:$PATH
+PATH=$home/work/dotfiles/scripts:$PATH
+PATH=$home/work/dotfiles/bin:$PATH
 
 # Homebrew
 PATH=/opt/homebrew/bin:$PATH

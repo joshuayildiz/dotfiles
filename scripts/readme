@@ -1,11 +1,12 @@
 Hi, this directory contains scripts I use regularly. Most of them are
 solely acme helpers.
 
-| Script  | Purpose                   |
-| ------- | ------------------------- |
-| Clear   | clears whole acme window  |
-| c+/c-   | comment/decomment         |
-| i+/i-   | indent/dedent             |
-| tblfmt  | format markdown table     |
+| Script  | Purpose                        |
+| ------- | ------------------------------ |
+| Clear   | clears whole acme window       |
+| align   | aligns columns on a character  |
+| c+/c-   | comment/decomment              |
+| i+/i-   | indent/dedent                  |
+| tblfmt  | format markdown table          |
 
 Some of them are written in C. Just run mk and they should build.
