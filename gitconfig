@@ -6,7 +6,7 @@
   followTags = true
   default = simple
 [core]
-  editor = vi
+  editor = E
   pager = cat
 [advice]
   detachedHead = false

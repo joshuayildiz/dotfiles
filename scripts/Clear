@@ -1,0 +1,8 @@
+#!/usr/local/plan9/bin/rc
+echo $winid
+echo $#winid
+if (~ $#winid 0) {
+	exit "winid is nil"
+}
+echo -n , | 9p write acme/$winid/addr
+echo      | 9p write acme/$winid/data
