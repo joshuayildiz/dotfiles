@@ -9,11 +9,17 @@ HOMEBREW_PREFIX=/opt/homebrew
 HOMEBREW_CELLAR=/opt/homebrew/Cellar
 HOMEBREW_REPOSITORY=/opt/homebrew
 
+# Python
+PATH=$PATH:$home/Library/Python/3.9/bin
+
 # Rust
 if (test -d $home/.rustup) {
 	PATH=$PATH:$home/.rustup/toolchains/stable-aarch64-apple-darwin/bin
 	PATH=$PATH:$home/.cargo/bin
 }
+
+# Go
+PATH=$PATH:$home/go/bin
 
 # Namespace
 if (~ $#user 0) {
@@ -29,7 +35,7 @@ mkdir -p $NAMESPACE
 if (! {ps -x | grep -q fontsrv}) {
 	fontsrv &
 }
-font=/mnt/font/BerkeleyMonoVariable-Regular/16a/font
+font=/mnt/font/BerkeleyMonoVariable-Regular/14a/font
 
 # Plumber
 if (! {ps -x | grep -q plumber}) {
