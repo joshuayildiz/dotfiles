@@ -5,9 +5,6 @@
   autoSetupRemote = true
   followTags = true
   default = simple
-[core]
-  editor = E
-  pager = cat
 [advice]
   detachedHead = false
 [column]

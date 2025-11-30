@@ -1,5 +1,10 @@
 Enables the "Quit" option for Finder.
+Which removes it from cmd+tab menu.
 
 	defaults write com.apple.Finder QuitMenuItem 1
 
-Which removes it from cmd+tab menu.
+
+Adds postgres CLI tools to PATH.
+
+	sudo mkdir -p /etc/paths.d &&
+	echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
