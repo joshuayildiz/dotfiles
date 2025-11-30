@@ -21,6 +21,9 @@ if (test -d $home/.rustup) {
 # Go
 PATH=$PATH:$home/go/bin
 
+# Postgres
+PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+
 # Namespace
 if (~ $#user 0) {
 	user=`{whoami}

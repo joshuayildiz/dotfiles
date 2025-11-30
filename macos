@@ -1,0 +1,5 @@
+Enables the "Quit" option for Finder.
+
+	defaults write com.apple.Finder QuitMenuItem 1
+
+Which removes it from cmd+tab menu.
