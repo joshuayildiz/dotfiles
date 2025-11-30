@@ -3,6 +3,11 @@ PATH=/usr/local/plan9/bin:$PATH
 PATH=$home/work/dotfiles/scripts:$PATH
 PATH=$home/work/dotfiles/bin:$PATH
 
+# Term
+TERM=dumb
+PAGER=nobs
+NO_COLOR=1
+
 # Homebrew
 PATH=/opt/homebrew/bin:$PATH
 HOMEBREW_PREFIX=/opt/homebrew
@@ -44,6 +49,3 @@ font=/mnt/font/BerkeleyMonoVariable-Regular/14a/font
 if (! {ps -x | grep -q plumber}) {
 	plumber
 }
-
-# Aliases
-
