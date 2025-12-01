@@ -4,7 +4,7 @@ database         : postgres
 font             : berkeley mono
 language         : go, c, sql
 messaging        : signal
-os               : macos
+os               : macos/fedora
 password manager : 1password
 vpn              : mullvad
 

@@ -1,0 +1,9 @@
+if [ $SHELL = /bin/zsh ]; then
+	export PS1='%% '
+else
+	export PS1='% '
+fi
+
+export EDITOR=vi
+export PATH=$PATH:$HOME/go/bin
+alias ls="ls -1"
